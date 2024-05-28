@@ -1,0 +1,35 @@
+{
+  "coord": { "lon": -83.5002, "lat": 32.7504 },
+  "weather": [
+    {
+      "id": 803,
+      "main": "Clouds",
+      "description": "broken clouds",
+      "icon": "04d"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 298.67,
+    "feels_like": 299.39,
+    "temp_min": 296.56,
+    "temp_max": 300.13,
+    "pressure": 1014,
+    "humidity": 81
+  },
+  "visibility": 10000,
+  "wind": { "speed": 3.6, "deg": 230 },
+  "clouds": { "all": 75 },
+  "dt": 1716822284,
+  "sys": {
+    "type": 1,
+    "id": 6264,
+    "country": "US",
+    "sunrise": 1716805715,
+    "sunset": 1716856453
+  },
+  "timezone": -14400,
+  "id": 4197000,
+  "name": "Georgia",
+  "cod": 200
+}
