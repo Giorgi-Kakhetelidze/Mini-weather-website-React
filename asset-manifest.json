@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Mini-weather-website-React/static/css/main.6c66ad8e.css",
+    "main.js": "/Mini-weather-website-React/static/js/main.b9522860.js",
+    "static/media/sunset.jpg": "/Mini-weather-website-React/static/media/sunset.ab19eb6fc568e5c0ff4d.jpg",
+    "index.html": "/Mini-weather-website-React/index.html",
+    "main.6c66ad8e.css.map": "/Mini-weather-website-React/static/css/main.6c66ad8e.css.map",
+    "main.b9522860.js.map": "/Mini-weather-website-React/static/js/main.b9522860.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c66ad8e.css",
+    "static/js/main.b9522860.js"
+  ]
+}
